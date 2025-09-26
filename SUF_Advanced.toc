@@ -1,0 +1,11 @@
+## Interface: 100007
+## Title: SUF Advanced
+## Notes: Advanced Settings for Shadowed Unit Frames
+## Author: GitHub Copilot
+## Version: 1.0
+## SavedVariables: SUF_AdvancedDB
+Tags\Tags.lua
+Tags\Translit.lua
+Modules\PartyOrder.lua
+SUF_Advanced.lua
+
